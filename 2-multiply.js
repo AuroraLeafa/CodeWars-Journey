@@ -1,6 +1,6 @@
 /* 
     Day 2 - Code Wars Challenge
-    Link : https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/
+    Link : https://www.codewars.com/kata/5708f682c69b48047b000e07
     CLEAR!!
 */
 
