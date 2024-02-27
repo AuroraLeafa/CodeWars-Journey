@@ -4,16 +4,16 @@
     CLEAR !!
 */
 
-function sum(numbers){
-    if (numbers === 0){
-        return 0
-    }
-    let total = 0;
-    for(const number of numbers){
-        total += number
-    }
-    return total
-}
+// function sum(numbers){
+//     if (numbers === 0){
+//         return 0
+//     }
+//     let total = 0;
+//     for(const number of numbers){
+//         total += number
+//     }
+//     return total
+// }
 
 const sum = numbers => numbers.reduce((acc, curr) => acc + curr, 0);
 
