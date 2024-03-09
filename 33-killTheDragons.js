@@ -1,5 +1,5 @@
 /* 
-    Day 31 - Code Wars Challenge
+    Day 33 - Code Wars Challenge
     Link : https://www.codewars.com/kata/59ca8246d751df55cc00014c/
     CLEAR !!
 */
