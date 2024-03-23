@@ -1,5 +1,5 @@
 /* 
-    Day 46 - Code Wars Challenge
+    Day 47 - Code Wars Challenge
     Link : https://www.codewars.com/kata/576b93db1129fcf2200001e6/
     CLEAR !!
 */
