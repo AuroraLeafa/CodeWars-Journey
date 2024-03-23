@@ -15,6 +15,6 @@ function sumArray(array) {
   return sum - Math.min(...array) - Math.max(...array);
 }
 
-// const sumArray = array => !array || array.length < 1 ? 0 : array.sort((a,b) => a-b).slice(1,-1).reduce((acc, curr) => acc + curr, 0)
+// const sumArray = arr => !arr || arr.length < 1 ? 0 : arr.sort((a,b) => a-b).slice(1,-1).reduce((acc, curr) => acc + curr, 0)
 
 console.log(sumArray([5, 3, 4, 2, 1, 1]));
