@@ -1,5 +1,5 @@
 /* 
-    Day 48 - Code Wars Challenge
+    Day 49 - Code Wars Challenge
     Link : https://www.codewars.com/kata/563e320cee5dddcf77000158/
     CLEAR !!
 */
