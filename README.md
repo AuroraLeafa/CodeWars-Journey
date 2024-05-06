@@ -1,5 +1,7 @@
 # codewars
 
+### CodeWars Profile -> [AuroraLeafa's Profile](https://www.codewars.com/users/AuroraLeafa)
+
 To install dependencies:
 
 ```bash
