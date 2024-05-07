@@ -1,3 +1,9 @@
+/* 
+    Day 88 - Code Wars Challenge
+    Link : https://www.codewars.com/kata/57f222ce69e09c3630000212
+    CLEAR!!
+*/
+
 // function well(x) {
 //   let res = 0;
 //   for (let i = 0; i < x.length; i++) {
