@@ -1,5 +1,5 @@
 /* 
-    Kata 8
+    Kyu 8
     Day 101 - Code Wars Challenge
     Link : https://www.codewars.com/kata/559d2284b5bb6799e9000047
     CLEAR!!

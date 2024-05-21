@@ -1,5 +1,5 @@
 /* 
-    Kata 7
+    Kyu 7
     Day 1 - Code Wars Challenge
     Link : https://www.codewars.com/kata/54ff3102c1bad923760001f3
     CLEAR!!
