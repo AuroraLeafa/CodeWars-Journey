@@ -1,6 +1,6 @@
 /* 
     Kyu 8
-    Day 109 - Code Wars Challenge
+    Day 110 - Code Wars Challenge
     Link : https://www.codewars.com/kata/55d277882e139d0b6000005d
     CLEAR!!
 */
