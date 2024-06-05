@@ -1,6 +1,6 @@
 /* 
     Kyu 7
-    Day 14 - Code Wars Challenge
+    Day 15 - Code Wars Challenge
     Link : https://www.codewars.com/kata/5412509bd436bd33920011bc
     CLEAR!!
 */
