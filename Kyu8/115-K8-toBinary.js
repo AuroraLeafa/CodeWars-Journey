@@ -7,3 +7,11 @@
 
 // const toBinary = n => parseInt(n.toString(2));
 const toBinary = n => +n.toString(2);
+
+console.log(toBinary(8));
+console.log(toBinary(16));
+console.log(toBinary(32));
+console.log(toBinary(64));
+console.log(toBinary(256));
+console.log(toBinary(512));
+console.log(toBinary(1024));
