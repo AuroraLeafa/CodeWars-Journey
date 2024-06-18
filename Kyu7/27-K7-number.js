@@ -1,3 +1,10 @@
+/* 
+    Kyu 7
+    Day 27 - Code Wars Challenge
+    Link : https://www.codewars.com/kata/5648b12ce68d9daa6b000099
+    CLEAR!!
+*/
+
 function number(busStops) {
   let totalPeople = 0;
 
