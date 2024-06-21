@@ -5,19 +5,19 @@
     CLEAR!!
 */
 
-function reverseWords(str) {
-    let newStr = str.split(" ")
-    let res = []
-    for (let i = 0; i < newStr.length; i++) {
-        newStr[i] = newStr[i].split('').reverse().join('')
-    }
-    return newStr.join(" ")
-}
+// function reverseWords(str) {
+//     let newStr = str.split(" ")
+//     let res = []
+//     for (let i = 0; i < newStr.length; i++) {
+//         newStr[i] = newStr[i].split('').reverse().join('')
+//     }
+//     return newStr.join(" ")
+// }
 
-// const reverseWords = (str) =>
-//   str
-//     .split(" ")
-//     .map((word) => word.split("").reverse().join(""))
-//     .join(" ");
+const reverseWords = (str) =>
+  str
+    .split(" ")
+    .map((word) => word.split("").reverse().join(""))
+    .join(" ");
 
 console.log(reverseWords("double  spaced  words"));
