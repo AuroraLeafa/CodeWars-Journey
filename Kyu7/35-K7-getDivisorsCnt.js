@@ -1,7 +1,7 @@
 /* 
     Kyu 7
-    Day 34 - Code Wars Challenge
-    Link : https://www.codewars.com/kata/5813d19765d81c592200001a
+    Day 35 - Code Wars Challenge
+    Link : https://www.codewars.com/kata/542c0f198e077084c0000c2e
     CLEAR!!
 */
 
