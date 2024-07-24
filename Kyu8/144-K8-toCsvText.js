@@ -2,7 +2,7 @@
     Kyu 8
     Day 144 - Code Wars Challenge
     Link : https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036
-    CLEAR!!
+    CLEAR!!!
 */
 
 const toCsvText = array => array.join("\n");
