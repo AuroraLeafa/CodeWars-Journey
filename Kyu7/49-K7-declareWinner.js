@@ -37,5 +37,5 @@ function declareWinner(fighter1, fighter2, firstAttacker) {
 // };
 
 console.log(
-  declare_winner(new Fighter("Lew", 10, 2), new Fighter("Harry", 5, 4), "Lew")
+    declareWinner(new Fighter("Lew", 10, 2), new Fighter("Harry", 5, 4), "Lew")
 ); // "Lew"
