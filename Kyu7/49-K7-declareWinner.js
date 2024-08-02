@@ -15,17 +15,32 @@ function Fighter(name, health, damagePerAttack) {
   };
 } // Need to be included
 
-function declareWinner(fighter1, fighter2, firstAttacker) {
-  let attacker = fighter1.name === firstAttacker ? fighter1 : fighter2;
-  let defender = fighter1.name === firstAttacker ? fighter2 : fighter1;
+// function declareWinner(fighter1, fighter2, firstAttacker) {
+//   let attacker = fighter1.name === firstAttacker ? fighter1 : fighter2;
+//   let defender = fighter1.name === firstAttacker ? fighter2 : fighter1;
 
-  while (fighter1.health > 0 && fighter2.health > 0) {
-    defender.health -= attacker.damagePerAttack;
-    if (defender.health <= 0) {
-      return attacker.name;
+//   while (fighter1.health > 0 && fighter2.health > 0) {
+//     defender.health -= attacker.damagePerAttack;
+//     if (defender.health <= 0) {
+//       return attacker.name;
+//     }
+//     [attacker, defender] = [defender, attacker];
+//   }
+// }
+
+function declareWinner(fighter1, fighter2, firstAttacker) {
+    while(fighter1.health > 0 && fighter2.health > 0) {
+        fighter1.health -= fighter2.damagePerAttack;
+        fighter2.health -= fighter1.damagePerAttack;
     }
-    [attacker, defender] = [defender, attacker];
-  }
+
+    if (fighter1.health <= 0 && fighter2.health <= 0) {
+        return firstAttacker
+    } else if (fighter2.health <= 0) {
+        return fighter1.name
+    } else {
+        return fighter2.name
+    }
 }
 
 // const declareWinner = (fighter1, fighter2, firstAttacker) => {
