@@ -1,5 +1,5 @@
 /* 
-    Kyu 8
+    Kyu 8 
     Day 125 - Code Wars Challenge
     Link : https://www.codewars.com/kata/59dd3ccdded72fc78b000b25
     CLEAR!!
